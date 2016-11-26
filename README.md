@@ -1,2 +1,2 @@
 # Pressing-Sounds
-Paper.js and Howler.js project
+This is a Patatap clone using Paper.js and Howler.js libraries.
